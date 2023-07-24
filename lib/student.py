@@ -1,8 +1,8 @@
 class Student:
-  def hello(self):
+    def hello(self):
         print("Hey there! I'm so excited to learn stuff.")
 
-def raise_hand(self):
+    def raise_hand(self):
         print("Pick me!")
 
 
